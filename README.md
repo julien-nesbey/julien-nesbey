@@ -23,5 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=julien-nesbey&icon=10&color=13)](https://visitcount.itsvg.in)
-
-![Snake animation](https://github.com/julien-nesbey/julien-nesbey/blob/output/github-contribution-grid-snake.svg)
