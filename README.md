@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my overall skills in both backend and frontend development.<br>👯 I’m looking to collaborate on new projects that use new technologies.<br>🌱 I’m currently learning NestJS - Apollo and GraphQL.<br>⚡ Fun fact: Python was not named after a snake 🐍
+🔭 I’m currently working on improving my overall skills in both backend and frontend development.<br>👯 I’m looking to collaborate on new projects that uses new technologies.<br>🌱 I’m currently learning NestJS - Apollo and GraphQL.<br>⚡ Fun fact: Python was not named after a snake 🐍
 
 
 ## 🌐 Socials:
